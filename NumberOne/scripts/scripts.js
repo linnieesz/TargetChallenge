@@ -5,4 +5,5 @@ while (K < INDICE) {
     SOMA = SOMA + K;
 }
 
-console.log(SOMA);
+document.getElementById('resultadoSoma').textContent = SOMA;
+document.getElementById('soma').value = SOMA;
