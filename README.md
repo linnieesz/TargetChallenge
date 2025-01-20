@@ -21,7 +21,7 @@ Antes de rodar o projeto, você precisa ter o seguinte instalado em sua máquina
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/target-challenge.git
+    git clone https://github.com/linnieesz/TargetChallenge.git
     ```
 
 2. Navegue até a pasta do projeto:
